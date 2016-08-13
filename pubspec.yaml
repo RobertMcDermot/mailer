@@ -12,6 +12,6 @@ dependencies:
   logging: '>=0.9.0 <2.0.0'
   crypto: '>=0.9.0 <2.0.0'
   path: '>=0.9.0 <2.0.0'
-  intl: '>=0.9.0 <2.0.0'
+  intl: '^0.13.0'
 dev_dependencies:
   test: "^0.12.15+3"
